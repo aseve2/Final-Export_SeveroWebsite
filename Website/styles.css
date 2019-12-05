@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #918DFF;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+h1 {color: #1500BE; font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+p1 {color: #1F2AFF ; font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+h2 {color:#1500BE; font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+h3 {color:#1500BE; font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+h4 {color:#90181A; font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+p {color: #1500BE; font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+	.fa-linkedin {
+  background: #55ACEE;
+  color: white;
+		
+}
+.fa-instagram {
+  background: #FF00AD;
+  color: white; 
+		
